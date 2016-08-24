@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,IAAI,MAAM,GAAG,OAAO,CAAC,wBAAwB,CAAC,CAAC;AAC/C,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE,EAEX;;;AAGD,UAAM,EAAE,kBAAY;AAChB,UAAE,CAAC,iBAAiB,CAAC,EAAE,CAAC,SAAS,CAAC,IAAI,CAAC,CAAA;AACvC,eAAO,CAAC,GAAG,CAAC,oBAAoB,CAAC,CAAA;AACjC,YAAI,IAAI,GAAG,EAAE,CAAC,IAAI,CAAC,wBAAwB,EAAE,IAAI,CAAC,IAAI,CAAC,CAAC;AACxD,YAAI,QAAQ,GAAG,EAAE,CAAC,QAAQ,CAAC,EAAE,EAAE,GAAG,CAAC,CAAC;AACpC,YAAI,CAAC,SAAS,CAAC,EAAE,CAAC,aAAa,CAAC,QAAQ,CAAC,CAAC,CAAC;AAC3C,UAAE,CAAC,QAAQ,CAAC,gBAAgB,EAAE,CAAC,WAAW,CAAC,IAAI,CAAC,CAAA;AAChD,cAAM,CAAC,YAAY,CAAC,IAAI,EAAE,YAAY,CAAC,CAAC;;KAE3C;CACJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "var Shader = require(\"../../Shader/Shader.js\");\ncc.Class({\n    extends: cc.Component,\n\n    properties: {\n        \n    },\n\n    // use this for initialization\n    onLoad: function () {\n        cc._initDebugSetting(cc.DebugMode.INFO) \n        console.log(\"onLoadonLoadonLoad\")\n        var node = cc.find(\"LoginBg/login_enterBtn\", this.node);\n        var actionBy = cc.rotateBy(12, 360);\n        node.runAction(cc.repeatForever(actionBy));\n        cc.director.getActionManager().pauseTarget(node)\n        Shader.setGLProgram(node, \"GreyShader\");\n        // node.getComponent(cc.Sprite).spriteFrame.getTexture().setAliasTexParameters();\n    },   \n});\n"
+  ]
+}

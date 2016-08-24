@@ -1,0 +1,14 @@
+{
+  "buildPath": "/Users/apple/cocoscreatorproject/H5Game/build",
+  "debug": false,
+  "keystoreAlias": "",
+  "keystoreAliasPassword": "",
+  "keystorePassword": "",
+  "keystorePath": "",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "sourceMaps": true,
+  "template": "binary",
+  "useDebugKeystore": true
+}

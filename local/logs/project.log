@@ -1,0 +1,92 @@
+2016-08-24T00:46:18.699Z - normal: Load ~/.CocosCreator/settings.json
+2016-08-24T00:46:18.704Z - normal: checking language setting...
+2016-08-24T00:46:18.704Z - normal: Language: zh
+2016-08-24T00:46:18.732Z - success: protocol editor-framework registered
+2016-08-24T00:46:18.732Z - success: protocol app registered
+2016-08-24T00:46:18.733Z - success: protocol packages registered
+2016-08-24T00:46:18.733Z - success: protocol theme registered
+2016-08-24T00:46:18.733Z - success: protocol unpack registerred
+2016-08-24T00:46:19.371Z - normal: connected!
+2016-08-24T00:46:19.373Z - normal: Check project /Users/apple/cocoscreatorproject/CocosCreatorShader
+2016-08-24T00:46:19.377Z - normal: Initializing Cocos Creator Editor
+2016-08-24T00:46:19.676Z - normal: Initializing Cocos2d
+2016-08-24T00:46:19.816Z - normal: Initializing Asset Database
+2016-08-24T00:46:19.835Z - success: protocol uuid registerred
+2016-08-24T00:46:19.836Z - success: protocol db registerred
+2016-08-24T00:46:19.836Z - success: protocol thumbnail registerred
+2016-08-24T00:46:19.836Z - normal: Loading editor/builtin packages
+2016-08-24T00:46:19.957Z - success: assets loaded
+2016-08-24T00:46:19.961Z - success: builder loaded
+2016-08-24T00:46:19.966Z - success: hierarchy loaded
+2016-08-24T00:46:19.971Z - success: inspector loaded
+2016-08-24T00:46:19.973Z - success: keystore loaded
+2016-08-24T00:46:19.978Z - success: node-library loaded
+2016-08-24T00:46:19.983Z - success: preferences loaded
+2016-08-24T00:46:20.003Z - success: project-importer loaded
+2016-08-24T00:46:20.006Z - success: project-settings loaded
+2016-08-24T00:46:20.010Z - success: ui-kit loaded
+2016-08-24T00:46:20.015Z - success: ui-grid loaded
+2016-08-24T00:46:20.025Z - success: scene loaded
+2016-08-24T00:46:20.026Z - success: sprite-editor loaded
+2016-08-24T00:46:20.032Z - success: timeline loaded
+2016-08-24T00:46:20.032Z - normal: Loading builtin packages
+2016-08-24T00:46:20.038Z - success: asset-db-debugger loaded
+2016-08-24T00:46:20.040Z - success: code-editor loaded
+2016-08-24T00:46:20.040Z - success: color-picker loaded
+2016-08-24T00:46:20.046Z - success: console loaded
+2016-08-24T00:46:20.050Z - failed: Failed to load package at /Applications/CocosCreator.app/Contents/Resources/app.asar/builtin/ipc-debugger: Host 'editor-framework' require ver ^0.4.0
+2016-08-24T00:46:20.053Z - success: package-manager loaded
+2016-08-24T00:46:20.057Z - success: tester loaded
+2016-08-24T00:46:20.061Z - success: ui-kit-preview-extra loaded
+2016-08-24T00:46:20.064Z - success: ui-kit-preview loaded
+2016-08-24T00:46:20.067Z - success: ui-tree loaded
+2016-08-24T00:46:20.068Z - failed: Failed to load package at /Applications/CocosCreator.app/Contents/Resources/app.asar/builtin/undo-debugger: Host 'editor-framework' require ver ^0.4.0
+2016-08-24T00:46:20.100Z - normal: Initializing project /Users/apple/cocoscreatorproject/CocosCreatorShader
+2016-08-24T00:46:20.103Z - normal: Loading packages
+2016-08-24T00:46:20.107Z - failed: Failed to load package at /Applications/CocosCreator.app/Contents/Resources/app.asar/builtin/ipc-debugger: Host 'editor-framework' require ver ^0.4.0
+2016-08-24T00:46:20.116Z - failed: Failed to load package at /Applications/CocosCreator.app/Contents/Resources/app.asar/builtin/undo-debugger: Host 'editor-framework' require ver ^0.4.0
+2016-08-24T00:46:20.117Z - normal: Run Application
+2016-08-24T00:46:20.652Z - success: preview server running at http://localhost:7456
+2016-08-24T00:46:25.221Z - normal: 1.2.0
+2016-08-24T00:46:28.245Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 810.00
+2016-08-24T00:46:28.245Z - normal: Simulator: FRAME SCALE = 1.00
+2016-08-24T00:46:28.368Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-08-24T00:46:28.502Z - normal: Simulator: 
+2016-08-24T00:46:28.503Z - normal: Simulator: {
+2016-08-24T00:46:28.503Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-08-24T00:46:28.503Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-08-24T00:46:28.503Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-08-24T00:46:28.503Z - normal: Simulator: 	gl.version: 2.1 NVIDIA-10.4.2 310.41.35f01
+2016-08-24T00:46:28.504Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-08-24T00:46:28.528Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-08-24T00:46:28.528Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-08-24T00:46:28.529Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-08-24T00:46:28.529Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-08-24T00:46:28.529Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-08-24T00:46:28.529Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-08-24T00:46:28.530Z - normal: Simulator: 	gl.renderer: NVIDIA GeForce GT 650M OpenGL Engine
+2016-08-24T00:46:28.531Z - normal: Simulator: 	gl.vendor: NVIDIA Corporation
+2016-08-24T00:46:28.531Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-08-24T00:46:28.531Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-08-24T00:46:28.531Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-08-24T00:46:28.532Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-08-24T00:46:28.532Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-08-24T00:46:28.532Z - normal: Simulator: }
+2016-08-24T00:46:28.556Z - normal: Simulator: Project Config:
+2016-08-24T00:46:28.556Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-08-24T00:46:28.556Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-08-24T00:46:28.557Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-08-24T00:46:28.557Z - normal: Simulator:     frame size: 960 x 640
+2016-08-24T00:46:28.557Z - normal: Simulator:     frame scale: 1.00
+2016-08-24T00:46:28.557Z - normal: Simulator:     show console: NO
+2016-08-24T00:46:28.557Z - normal: Simulator:     write debug log: NO ()
+2016-08-24T00:46:28.558Z - normal: Simulator:     listen: 
+2016-08-24T00:46:28.558Z - normal: Simulator:     debugger: none
+2016-08-24T00:46:28.558Z - normal: Simulator:     add searching path:
+2016-08-24T00:46:28.559Z - normal: Simulator: ------------------------------------------------
+2016-08-24T00:46:28.559Z - normal: Simulator: LOAD Js FILE: main.js
+2016-08-24T00:46:28.559Z - normal: Simulator: ------------------------------------------------
+2016-08-24T00:46:28.919Z - normal: Simulator: Cocos2d-JS v3.9
+2016-08-24T00:46:28.979Z - normal: Simulator: iShow!
+2016-08-24T00:46:29.267Z - normal: Simulator: onLoadonLoadonLoad
+2016-08-24T00:46:29.267Z - normal: Simulator: use native GLProgram

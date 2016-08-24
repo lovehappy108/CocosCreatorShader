@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "login_0.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "login_enterBtn": {
+      "__uuid__": "ce2b068d-a6af-4983-83ad-6a47d4f4db9b"
+    },
+    "login_flyFruit1": {
+      "__uuid__": "bf567958-a405-421b-8321-0667aa7e9560"
+    },
+    "login_flyFruit2": {
+      "__uuid__": "bd6b5173-6662-4334-a0ee-3718782e6040"
+    },
+    "login_flyFruit3": {
+      "__uuid__": "728121c1-916b-42cc-ab1b-8a532cff0c89"
+    },
+    "login_fruitCut1": {
+      "__uuid__": "fd34b3af-2aae-4650-aef3-609ab0f1aade"
+    },
+    "login_fruitCut2": {
+      "__uuid__": "3b2e0143-7992-47ba-b427-69a6343e3548"
+    },
+    "login_role1": {
+      "__uuid__": "0f9d0363-86ec-4bae-93a7-1f54f607526c"
+    },
+    "login_role2": {
+      "__uuid__": "cc39f8bb-58fa-4eeb-b75f-ad0e16ecf89e"
+    },
+    "login_role3": {
+      "__uuid__": "125f4053-79e1-4180-8bfd-a27423c5cf86"
+    },
+    "login_role4": {
+      "__uuid__": "6e25ae6d-c513-4e9b-a618-55719332f33e"
+    },
+    "login_star": {
+      "__uuid__": "df1e1906-9e52-46fc-b2c9-aebf9bc6c899"
+    },
+    "login_star1": {
+      "__uuid__": "042ff56f-a701-47ec-9fd1-c05b9e62625b"
+    },
+    "login_title": {
+      "__uuid__": "e56d6ab7-c72e-42b4-8587-47bcf376705d"
+    }
+  }
+}

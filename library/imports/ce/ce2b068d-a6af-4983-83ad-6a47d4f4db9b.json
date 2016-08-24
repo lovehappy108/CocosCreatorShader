@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "login_enterBtn",
+    "texture": "294fc201-3a4f-48f3-b3f8-74013a0e7efa",
+    "atlas": "a709e108-d04d-444f-a178-f358db1a9431",
+    "rect": [
+      490,
+      959,
+      248,
+      216
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      248,
+      216
+    ],
+    "rotated": 1
+  }
+}
